@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.2
+requests==2.29.0
+pandas==2.0.3
+langchain==0.0.265
+llama-cpp-python==0.1.77
+faiss-cpu==1.7.4
+datasets==2.13.1
+numpy==1.24.4
+shap==0.42.1
+flask
+gpt4all==1.0.5
